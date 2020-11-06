@@ -11,6 +11,7 @@ namespace sonkurşun
         static void Main(string[] args)
         {
             Console.WriteLine("Bırak peşimizi mutant örümcek");
+            Console.WriteLine("gaçaman gardaş");
         }
     }
 }
