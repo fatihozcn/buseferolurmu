@@ -10,7 +10,7 @@ namespace sonkurşun
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("lütfeen");
+            Console.WriteLine("Bırak peşimizi mutant örümcek");
         }
     }
 }
