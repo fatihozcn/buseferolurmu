@@ -12,6 +12,7 @@ namespace sonkurşun
         {
             Console.WriteLine("Bırak peşimizi mutant örümcek");
             Console.WriteLine("gaçaman gardaşşş");
+            Console.WriteLine("kanka oldu mu");
         }
     }
 }
